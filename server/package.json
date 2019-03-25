@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "express": "^4.16.4",
+    "sentiment": "^5.0.1",
+    "socket.io": "^2.2.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  },
+  "scripts": {
+    "start:dev": "nodemon index.js"
+  }
+}
